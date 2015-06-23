@@ -1,0 +1,7 @@
+C:\Users\c21416\Documents\Visual Studio 2013\Projects\SimpleHttpClientConsumer\SimpleHttpClient\obj\Debug\SimpleHttpClient.csprojResolveAssemblyReference.cache
+C:\Users\c21416\Documents\Visual Studio 2013\Projects\SimpleHttpClientConsumer\SimpleHttpClient\bin\Debug\SimpleHttpClient.dll
+C:\Users\c21416\Documents\Visual Studio 2013\Projects\SimpleHttpClientConsumer\SimpleHttpClient\bin\Debug\SimpleHttpClient.pdb
+C:\Users\c21416\Documents\Visual Studio 2013\Projects\SimpleHttpClientConsumer\SimpleHttpClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\c21416\Documents\Visual Studio 2013\Projects\SimpleHttpClientConsumer\SimpleHttpClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\c21416\Documents\Visual Studio 2013\Projects\SimpleHttpClientConsumer\SimpleHttpClient\obj\Debug\SimpleHttpClient.dll
+C:\Users\c21416\Documents\Visual Studio 2013\Projects\SimpleHttpClientConsumer\SimpleHttpClient\obj\Debug\SimpleHttpClient.pdb
